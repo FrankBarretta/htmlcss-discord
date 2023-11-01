@@ -1,0 +1,29 @@
+.my-text-white a {
+    color: white;
+    text-decoration: none;
+}
+
+.my-text-white a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+.bg-discord {
+    background-image: url(/img/jumbo.png);
+}
+
+.bg-white-grey {
+    background-color: #F6F6F6;
+}
+
+.bg-blueDiscord {
+    background-color: #7289DA;
+}
+
+.bg-stars {
+    background-image: url(/img/stars.svg);
+}
+
+.text-color-discord {
+    color: #7289DA;
+}
